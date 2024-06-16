@@ -1,0 +1,14 @@
+ClientId: 1022
+Phone 9/12
+Phone 7/26
+Phone 3/22
+Lamp 7/6
+Shoes 3/12
+Shoes 5/19
+Phone 10/13
+Song 1/26
+Phone 7/20
+Song 10/24
+Phone 7/21
+MovieRental 6/9
+Lamp 3/18

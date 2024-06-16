@@ -1,0 +1,7 @@
+Textbook 25.00
+Blu-Ray 15.00
+Lamp 3.50
+Shoes 30.00
+Song 2.00
+MovieRental 4.00
+Phone 13.75

@@ -1,0 +1,10 @@
+ClientId: 1038
+Phone 12/17
+MovieRental 1/1
+Blu-Ray 8/21
+Blu-Ray 8/2
+Shoes 4/11
+MovieRental 12/26
+Phone 4/6
+Phone 4/12
+Lamp 5/21

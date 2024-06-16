@@ -1,0 +1,11 @@
+ClientId: 1075
+Song 11/25
+Textbook 9/3
+Blu-Ray 1/4
+Song 5/3
+Lamp 2/21
+Song 9/25
+Lamp 7/4
+MovieRental 10/15
+Phone 7/12
+Blu-Ray 11/5

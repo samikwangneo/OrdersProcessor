@@ -1,0 +1,9 @@
+ClientId: 1013
+Blu-Ray 1/2
+Song 3/25
+Textbook 6/2
+Blu-Ray 10/18
+Blu-Ray 3/17
+Blu-Ray 4/9
+Song 2/7
+MovieRental 6/11

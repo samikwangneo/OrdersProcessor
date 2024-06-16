@@ -1,0 +1,9 @@
+ClientId: 1002
+Song 9/13
+Shoes 1/21
+Song 5/10
+Textbook 10/25
+Shoes 11/26
+Phone 1/8
+Song 8/26
+MovieRental 2/2

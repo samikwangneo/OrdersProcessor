@@ -1,0 +1,12 @@
+ClientId: 1064
+Phone 8/8
+Song 7/24
+Song 11/13
+Phone 9/10
+Song 10/4
+MovieRental 6/22
+Lamp 6/22
+Blu-Ray 11/5
+Blu-Ray 3/4
+Song 11/14
+Lamp 5/19

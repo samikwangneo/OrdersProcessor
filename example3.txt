@@ -1,0 +1,6 @@
+ClientId: 1003
+Phone 5/14
+MovieRental 4/16
+Phone 11/9
+Lamp 9/21
+Lamp 9/23

@@ -1,0 +1,14 @@
+ClientId: 1008
+Blu-Ray 5/17
+Blu-Ray 12/10
+Lamp 1/6
+Phone 3/19
+Shoes 11/22
+Phone 12/25
+Shoes 1/4
+Lamp 3/17
+Phone 7/11
+Song 10/4
+Song 7/9
+Lamp 3/15
+Song 4/8

@@ -1,0 +1,15 @@
+ClientId: 1009
+MovieRental 1/12
+Song 11/19
+Textbook 5/22
+Lamp 8/20
+Lamp 1/12
+MovieRental 11/14
+Blu-Ray 11/22
+MovieRental 4/11
+Shoes 2/19
+MovieRental 9/1
+Textbook 3/5
+Blu-Ray 2/4
+Shoes 11/2
+Textbook 12/18

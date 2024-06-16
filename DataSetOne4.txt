@@ -1,0 +1,5 @@
+ClientId: 1004
+MovieRental 5/1
+Blu-Ray 7/4
+Lamp 12/3
+Song 12/20

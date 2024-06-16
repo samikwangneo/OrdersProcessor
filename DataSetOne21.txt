@@ -1,0 +1,7 @@
+ClientId: 1021
+Shoes 1/25
+Song 4/13
+Song 10/2
+Shoes 11/6
+Blu-Ray 11/17
+MovieRental 12/7

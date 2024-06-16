@@ -1,0 +1,12 @@
+ClientId: 1019
+Phone 5/22
+Phone 6/16
+Lamp 4/18
+Shoes 3/5
+Blu-Ray 7/7
+Textbook 1/5
+Shoes 7/16
+Textbook 3/18
+Song 10/26
+Song 3/24
+Blu-Ray 12/14

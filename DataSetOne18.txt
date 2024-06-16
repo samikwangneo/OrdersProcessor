@@ -1,0 +1,5 @@
+ClientId: 1018
+Song 9/19
+Song 11/20
+MovieRental 10/19
+MovieRental 5/7

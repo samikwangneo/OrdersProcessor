@@ -1,0 +1,13 @@
+ClientId: 1072
+Blu-Ray 7/17
+Phone 8/11
+Textbook 1/21
+Phone 10/5
+Song 5/11
+Song 4/14
+Shoes 12/21
+MovieRental 2/8
+Textbook 2/22
+Phone 2/26
+Shoes 4/9
+Shoes 11/1

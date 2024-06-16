@@ -1,0 +1,9 @@
+ClientId: 1023
+Lamp 5/13
+Lamp 3/22
+Lamp 5/21
+Phone 1/3
+Lamp 5/11
+Shoes 6/26
+MovieRental 10/4
+Lamp 5/20

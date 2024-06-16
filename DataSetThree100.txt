@@ -1,0 +1,16 @@
+ClientId: 1100
+Lamp 11/12
+Phone 11/4
+Lamp 10/23
+Textbook 7/15
+Song 3/15
+Blu-Ray 1/13
+Textbook 9/3
+Lamp 12/15
+Textbook 11/18
+Lamp 3/17
+Shoes 1/2
+MovieRental 7/4
+Blu-Ray 4/6
+Lamp 11/7
+Lamp 3/18

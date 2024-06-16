@@ -1,0 +1,16 @@
+ClientId: 1033
+Song 12/14
+Shoes 6/7
+Blu-Ray 2/22
+Song 2/6
+Lamp 6/12
+Blu-Ray 11/16
+Phone 11/16
+Blu-Ray 11/17
+Lamp 3/21
+Song 4/11
+MovieRental 6/2
+Textbook 3/17
+Shoes 10/12
+Blu-Ray 8/22
+Blu-Ray 5/19

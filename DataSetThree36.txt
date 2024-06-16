@@ -1,0 +1,9 @@
+ClientId: 1036
+MovieRental 4/13
+Song 3/5
+Phone 2/10
+Blu-Ray 12/1
+Song 8/26
+Textbook 9/22
+Textbook 9/12
+Blu-Ray 1/24

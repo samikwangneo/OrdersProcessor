@@ -1,0 +1,97 @@
+----- Order details for client with Id: 1001 -----
+Item's name: Blu-Ray, Cost per item: $15.00, Quantity: 5, Cost: $75.00
+Item's name: Lamp, Cost per item: $3.50, Quantity: 3, Cost: $10.50
+Item's name: MovieRental, Cost per item: $4.00, Quantity: 3, Cost: $12.00
+Item's name: Phone, Cost per item: $13.75, Quantity: 4, Cost: $55.00
+Item's name: Shoes, Cost per item: $30.00, Quantity: 6, Cost: $180.00
+Item's name: Song, Cost per item: $2.00, Quantity: 5, Cost: $10.00
+Item's name: Textbook, Cost per item: $25.00, Quantity: 1, Cost: $25.00
+Order Total: $367.50
+----- Order details for client with Id: 1002 -----
+Item's name: Blu-Ray, Cost per item: $15.00, Quantity: 6, Cost: $90.00
+Item's name: Lamp, Cost per item: $3.50, Quantity: 4, Cost: $14.00
+Item's name: MovieRental, Cost per item: $4.00, Quantity: 6, Cost: $24.00
+Item's name: Phone, Cost per item: $13.75, Quantity: 8, Cost: $110.00
+Item's name: Shoes, Cost per item: $30.00, Quantity: 8, Cost: $240.00
+Item's name: Song, Cost per item: $2.00, Quantity: 5, Cost: $10.00
+Item's name: Textbook, Cost per item: $25.00, Quantity: 5, Cost: $125.00
+Order Total: $613.00
+----- Order details for client with Id: 1003 -----
+Item's name: Blu-Ray, Cost per item: $15.00, Quantity: 1, Cost: $15.00
+Item's name: Lamp, Cost per item: $3.50, Quantity: 5, Cost: $17.50
+Item's name: MovieRental, Cost per item: $4.00, Quantity: 3, Cost: $12.00
+Item's name: Phone, Cost per item: $13.75, Quantity: 6, Cost: $82.50
+Item's name: Shoes, Cost per item: $30.00, Quantity: 2, Cost: $60.00
+Item's name: Song, Cost per item: $2.00, Quantity: 3, Cost: $6.00
+Item's name: Textbook, Cost per item: $25.00, Quantity: 2, Cost: $50.00
+Order Total: $243.00
+----- Order details for client with Id: 1004 -----
+Item's name: Blu-Ray, Cost per item: $15.00, Quantity: 2, Cost: $30.00
+Item's name: Lamp, Cost per item: $3.50, Quantity: 1, Cost: $3.50
+Item's name: MovieRental, Cost per item: $4.00, Quantity: 4, Cost: $16.00
+Item's name: Phone, Cost per item: $13.75, Quantity: 2, Cost: $27.50
+Item's name: Shoes, Cost per item: $30.00, Quantity: 2, Cost: $60.00
+Item's name: Song, Cost per item: $2.00, Quantity: 2, Cost: $4.00
+Item's name: Textbook, Cost per item: $25.00, Quantity: 5, Cost: $125.00
+Order Total: $266.00
+----- Order details for client with Id: 1005 -----
+Item's name: Blu-Ray, Cost per item: $15.00, Quantity: 5, Cost: $75.00
+Item's name: Lamp, Cost per item: $3.50, Quantity: 8, Cost: $28.00
+Item's name: MovieRental, Cost per item: $4.00, Quantity: 9, Cost: $36.00
+Item's name: Phone, Cost per item: $13.75, Quantity: 3, Cost: $41.25
+Item's name: Shoes, Cost per item: $30.00, Quantity: 5, Cost: $150.00
+Item's name: Song, Cost per item: $2.00, Quantity: 5, Cost: $10.00
+Item's name: Textbook, Cost per item: $25.00, Quantity: 8, Cost: $200.00
+Order Total: $540.25
+----- Order details for client with Id: 1006 -----
+Item's name: Blu-Ray, Cost per item: $15.00, Quantity: 3, Cost: $45.00
+Item's name: Lamp, Cost per item: $3.50, Quantity: 6, Cost: $21.00
+Item's name: MovieRental, Cost per item: $4.00, Quantity: 4, Cost: $16.00
+Item's name: Phone, Cost per item: $13.75, Quantity: 4, Cost: $55.00
+Item's name: Shoes, Cost per item: $30.00, Quantity: 2, Cost: $60.00
+Item's name: Song, Cost per item: $2.00, Quantity: 4, Cost: $8.00
+Item's name: Textbook, Cost per item: $25.00, Quantity: 1, Cost: $25.00
+Order Total: $230.00
+----- Order details for client with Id: 1007 -----
+Item's name: Blu-Ray, Cost per item: $15.00, Quantity: 3, Cost: $45.00
+Item's name: Lamp, Cost per item: $3.50, Quantity: 6, Cost: $21.00
+Item's name: MovieRental, Cost per item: $4.00, Quantity: 1, Cost: $4.00
+Item's name: Shoes, Cost per item: $30.00, Quantity: 5, Cost: $150.00
+Item's name: Song, Cost per item: $2.00, Quantity: 4, Cost: $8.00
+Item's name: Textbook, Cost per item: $25.00, Quantity: 2, Cost: $50.00
+Order Total: $278.00
+----- Order details for client with Id: 1008 -----
+Item's name: Blu-Ray, Cost per item: $15.00, Quantity: 2, Cost: $30.00
+Item's name: Lamp, Cost per item: $3.50, Quantity: 3, Cost: $10.50
+Item's name: Phone, Cost per item: $13.75, Quantity: 3, Cost: $41.25
+Item's name: Shoes, Cost per item: $30.00, Quantity: 2, Cost: $60.00
+Item's name: Song, Cost per item: $2.00, Quantity: 3, Cost: $6.00
+Order Total: $147.75
+----- Order details for client with Id: 1009 -----
+Item's name: Blu-Ray, Cost per item: $15.00, Quantity: 5, Cost: $75.00
+Item's name: Lamp, Cost per item: $3.50, Quantity: 6, Cost: $21.00
+Item's name: MovieRental, Cost per item: $4.00, Quantity: 10, Cost: $40.00
+Item's name: Phone, Cost per item: $13.75, Quantity: 2, Cost: $27.50
+Item's name: Shoes, Cost per item: $30.00, Quantity: 10, Cost: $300.00
+Item's name: Song, Cost per item: $2.00, Quantity: 5, Cost: $10.00
+Item's name: Textbook, Cost per item: $25.00, Quantity: 5, Cost: $125.00
+Order Total: $598.50
+----- Order details for client with Id: 1010 -----
+Item's name: Blu-Ray, Cost per item: $15.00, Quantity: 3, Cost: $45.00
+Item's name: Lamp, Cost per item: $3.50, Quantity: 7, Cost: $24.50
+Item's name: MovieRental, Cost per item: $4.00, Quantity: 4, Cost: $16.00
+Item's name: Phone, Cost per item: $13.75, Quantity: 6, Cost: $82.50
+Item's name: Shoes, Cost per item: $30.00, Quantity: 9, Cost: $270.00
+Item's name: Song, Cost per item: $2.00, Quantity: 4, Cost: $8.00
+Item's name: Textbook, Cost per item: $25.00, Quantity: 8, Cost: $200.00
+Order Total: $646.00
+***** Summary of all orders *****
+Summary - Item's name: Blu-Ray, Cost per item: $15.00, Number sold: 35, Item's Total: $525.00
+Summary - Item's name: Lamp, Cost per item: $3.50, Number sold: 49, Item's Total: $171.50
+Summary - Item's name: MovieRental, Cost per item: $4.00, Number sold: 44, Item's Total: $176.00
+Summary - Item's name: Phone, Cost per item: $13.75, Number sold: 38, Item's Total: $522.50
+Summary - Item's name: Shoes, Cost per item: $30.00, Number sold: 51, Item's Total: $1,530.00
+Summary - Item's name: Song, Cost per item: $2.00, Number sold: 40, Item's Total: $80.00
+Summary - Item's name: Textbook, Cost per item: $25.00, Number sold: 37, Item's Total: $925.00
+Summary Grand Total: $3,930.00
+END_OF_TEST
